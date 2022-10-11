@@ -1,0 +1,8 @@
+---
+Archive: CPAN
+Bug-Database: https://rt.cpan.org/Public/Dist/Display.html?Name=strictures
+Bug-Submit: bug-strictures@rt.cpan.org
+Contact: mst - Matt S. Trout (cpan:MSTROUT) <mst@shadowcat.co.uk>
+Name: strictures
+Repository: https://github.com/p5sagit/strictures.git
+Repository-Browse: https://github.com/p5sagit/strictures

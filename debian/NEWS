@@ -1,0 +1,12 @@
+libstrictures-perl (2.000001-1) experimental; urgency=low
+
+  Citing from upstream's Changes file:
+
+  * Incompatible Changes
+    - strictures 2 fatalizes only a subset of warnings.  Some warning
+      categories are not safe to catch, or just inappropriate to have fatal.
+      Existing code looking like 'use strictures 1;' will continue to get the
+      old behavior of fatalizing all errors.  The new behavior will take effect
+      when no version or version 2 is specified.
+
+ -- Axel Beckert <abe@debian.org>  Wed, 01 Jul 2015 00:34:35 +0200
